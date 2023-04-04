@@ -11,5 +11,7 @@ internal class Program
         DataMahasiswa1302210008 adam = new DataMahasiswa1302210008();
         adam.readJSON();
 
+        DataMahasiswa1302210101 max = new DataMahasiswa1302210101();
+        max.readJSON();
     }
 }
