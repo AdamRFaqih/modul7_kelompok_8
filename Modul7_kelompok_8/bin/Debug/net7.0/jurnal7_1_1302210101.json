@@ -1,0 +1,41 @@
+{
+  "firstName": "Maximus",
+  "lastName": "Bayu",
+  "gender": "Laki Laki",
+  "age": 21,
+  "address": {
+    "streetAddress": "Sukabirus",
+    "city": "Kabupaten Bandung",
+    "state": "West Java"
+  },
+  "courses": [
+    {
+      "code": "CRI2C4",
+      "name": "KONSTRUKSI PERANGKAT LUNAK"
+    },
+    {
+      "code": "CRJ2A3",
+      "name": "PENJAMINAN MUTU PERANGKAT LUNAK"
+    },
+    {
+      "code": "CRI2E4",
+      "name": "BASIS DATA"
+    },
+    {
+      "code": "CRJ2G3",
+      "name": "DASAR JARINGAN KOMPUTER"
+    },
+    {
+      "code": "CRI2F2",
+      "name": "PROYEK TINGKAT II"
+    },
+    {
+      "code": "CRJ2H3",
+      "name": "PENGALAMAN PENGGUNA"
+    },
+    {
+      "code": "CII3B4",
+      "name": "PEMROGRAMAN BERORIENTASI OBJEK"
+    }
+  ]
+}
