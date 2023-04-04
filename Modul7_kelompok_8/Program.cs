@@ -13,5 +13,9 @@ internal class Program
 
         DataMahasiswa1302210101 max = new DataMahasiswa1302210101();
         max.readJSON();
+        
+        DataMahasiswa1302210041 data = new DataMahasiswa1302210041();
+        data.readJSON();
+        
     }
 }
