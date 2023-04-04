@@ -17,5 +17,8 @@ internal class Program
         DataMahasiswa1302210041 data = new DataMahasiswa1302210041();
         data.readJSON();
         
+        DataMahasiswa1302210024 habli = new DataMahasiswa1302210024();
+        habli.readJSON();
+        
     }
 }
