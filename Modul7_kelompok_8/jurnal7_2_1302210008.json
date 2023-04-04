@@ -1,0 +1,39 @@
+{
+  "members": [
+    {
+      "firstName": "Adam Rafif",
+      "lastName": "Faqih",
+      "gender": "male",
+      "age": 21,
+      "nim": "1302210008"
+    },
+    {
+      "firstName": "Muhammad Isa",
+      "lastName": "Al Anshori",
+      "gender": "male",
+      "age": 20,
+      "nim": "1302210014"
+    },
+    {
+      "firstName": "Habli",
+      "lastName": "Zulvana Ath-Thaariq",
+      "gender": "male",
+      "age": 20,
+      "nim": "1302210024"
+    },
+    {
+      "firstName": "Maximus Bayu",
+      "lastName": "Proudiasto",
+      "gender": "male",
+      "age": 21,
+      "nim": "1302210101"
+    },
+    {
+      "firstName": "Ilham",
+      "lastName": "Nasrullah",
+      "gender": "male",
+      "age": 20,
+      "nim": "1302210041"
+    }
+  ]
+}
