@@ -1,0 +1,16 @@
+C:\Users\PRAKTIKAN\Documents\MAX\Modul7_kelompok_8\bin\Debug\net7.0\Modul7_kelompok_8.exe
+C:\Users\PRAKTIKAN\Documents\MAX\Modul7_kelompok_8\bin\Debug\net7.0\Modul7_kelompok_8.deps.json
+C:\Users\PRAKTIKAN\Documents\MAX\Modul7_kelompok_8\bin\Debug\net7.0\Modul7_kelompok_8.runtimeconfig.json
+C:\Users\PRAKTIKAN\Documents\MAX\Modul7_kelompok_8\bin\Debug\net7.0\Modul7_kelompok_8.dll
+C:\Users\PRAKTIKAN\Documents\MAX\Modul7_kelompok_8\bin\Debug\net7.0\Modul7_kelompok_8.pdb
+C:\Users\PRAKTIKAN\Documents\MAX\Modul7_kelompok_8\obj\Debug\net7.0\Modul7_kelompok_8.csproj.AssemblyReference.cache
+C:\Users\PRAKTIKAN\Documents\MAX\Modul7_kelompok_8\obj\Debug\net7.0\Modul7_kelompok_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRAKTIKAN\Documents\MAX\Modul7_kelompok_8\obj\Debug\net7.0\Modul7_kelompok_8.AssemblyInfoInputs.cache
+C:\Users\PRAKTIKAN\Documents\MAX\Modul7_kelompok_8\obj\Debug\net7.0\Modul7_kelompok_8.AssemblyInfo.cs
+C:\Users\PRAKTIKAN\Documents\MAX\Modul7_kelompok_8\obj\Debug\net7.0\Modul7_kelompok_8.csproj.CoreCompileInputs.cache
+C:\Users\PRAKTIKAN\Documents\MAX\Modul7_kelompok_8\obj\Debug\net7.0\Modul7_kelompok_8.dll
+C:\Users\PRAKTIKAN\Documents\MAX\Modul7_kelompok_8\obj\Debug\net7.0\refint\Modul7_kelompok_8.dll
+C:\Users\PRAKTIKAN\Documents\MAX\Modul7_kelompok_8\obj\Debug\net7.0\Modul7_kelompok_8.pdb
+C:\Users\PRAKTIKAN\Documents\MAX\Modul7_kelompok_8\obj\Debug\net7.0\Modul7_kelompok_8.genruntimeconfig.cache
+C:\Users\PRAKTIKAN\Documents\MAX\Modul7_kelompok_8\obj\Debug\net7.0\ref\Modul7_kelompok_8.dll
+C:\Users\PRAKTIKAN\Documents\MAX\Modul7_kelompok_8\bin\Debug\net7.0\jurnal7_1_1302210101.json

@@ -1,14 +1,21 @@
-﻿// See https://aka.ms/new-console-template for more information
+using Modul7_kelompok_8;
 
-using System;
-namespace Modul7_kelompok_8
+internal class Program
 {
-    public class Program
+    private static void Main(string[] args)
     {
-        public static void Main()
-        {
-            DataMahasiswa1302210041 data = new DataMahasiswa1302210041();
-            data.readJSON();
-        }
+
+        DataMahasiswa1302210014 dataIsa = new DataMahasiswa1302210014();
+        dataIsa.readJSON();
+
+        DataMahasiswa1302210008 adam = new DataMahasiswa1302210008();
+        adam.readJSON();
+
+        DataMahasiswa1302210101 max = new DataMahasiswa1302210101();
+        max.readJSON();
+        
+        DataMahasiswa1302210041 data = new DataMahasiswa1302210041();
+        data.readJSON();
+        
     }
 }
