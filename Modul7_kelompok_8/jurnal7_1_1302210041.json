@@ -1,0 +1,41 @@
+{
+   "firstName": "Muhamad",
+   "lastName": "Ilham Nasrullah",
+   "gender": "male",
+   "age": 19,
+   "address": {
+       "streetAddress": "Sariwangi",
+       "city": "Bandung",
+       "state": "West Java"
+   },
+  "courses": [
+    {
+      "code": "CRI2C4",
+      "name": "Konstruksi Perangkat Lunak"
+    },
+    {
+      "code": "CRJ2H3",
+      "name": "Pengalaman Pengguna"
+    },
+    {
+      "code": "CII3B4",
+      "name": "Pemograman Beroriendtasi Objek"
+    },
+    {
+      "code": "CRI2E4",
+      "name": "Basis Data"
+    },
+    {
+      "code": "CRI2F2",
+      "name": "Proyek Tingkat II"
+    },
+    {
+      "code": "CRJ2A3",
+      "name": "Penjaminan Mutu Perangkat Lunal"
+    },
+    {
+      "code": "CRJ2G#",
+      "name": "Dasar Jaringan Komputer"
+    }
+  ]
+}

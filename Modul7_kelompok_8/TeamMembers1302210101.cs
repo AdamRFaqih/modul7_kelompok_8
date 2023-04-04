@@ -6,10 +6,9 @@ using System.Threading.Tasks;
 
 namespace Modul7_kelompok_8
 {
-    public class Courses
+    internal class TeamMembers1302210101
     {
-        public string code { get; set; }
-        public string name { get; set; }
-        public Courses() { }
+        Courses course = new Courses();
+        String txt2 = File.ReadAllText(@"./jurnal7_1_1302210101.json");
     }
 }
