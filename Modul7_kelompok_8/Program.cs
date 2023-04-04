@@ -21,5 +21,8 @@ internal class Program
         
         TeamMembers1302210008 tim = new TeamMembers1302210008();
         tim.readJSON();
+        
+        GlossaryItem1302210014 glossaryIsa = new GlossaryItem1302210014();
+        glossaryIsa.readJSON();
     }
 }
